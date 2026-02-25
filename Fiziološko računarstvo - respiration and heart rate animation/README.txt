@@ -4,5 +4,8 @@ Respiration: U zavisnosti od faze disanja, srce će se smanjivati ili povećavat
 
 Heart rate: U zavisnosti od toga koliki je heart rate (hr), tolikom brzinom će se menjati boja srca. Ukoliko dođe do nagle promene hr brzina smenjivanja boja će se povećati ili smanjiti u skladu sa promenom hr. Vreme trajanja jednog ciklusa od tri slike se dobija deljenjem 60 sekundi sa vrednošću hr-a pristiglu sa pullSamples čvora. Onda se izlazna vrednost LFO čvora mapira i konvertuje u int32 tako da obuhvati indekse slika koje pušta ImagePlayer čvor.
 
-Napomena: projekat je rađen uz asistenciju ChatGPT-a i materijala sa vežbi.
+Napomene: 
+- Projekat je rađen uz asistenciju ChatGPT-a i materijala sa vežbi, konkretno onih na kojima je obrađivan LSL način komunikacije.
+- Projekat je bio zadatak za drugi kolokvijum iz predmeta Fiziološko računarstvo koji drži prof. dr Jelena Mladenović na Računarskom fakultetu. 
+
 
