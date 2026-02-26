@@ -7,3 +7,7 @@ Heart rate: U zavisnosti od toga koliki je heart rate (hr), tolikom brzinom će 
 Napomene: 
 - Projekat je rađen uz asistenciju ChatGPT-a i materijala sa vežbi, konkretno onih na kojima je obrađivan LSL način komunikacije.
 - Projekat je bio zadatak za drugi kolokvijum iz predmeta Fiziološko računarstvo koji drži prof. dr Jelena Mladenović na Računarskom fakultetu. 
+
+
+https://github.com/user-attachments/assets/c7374ef2-94c7-48cb-9728-b1fc85996794
+
