@@ -1,9 +1,9 @@
 Svrha ovog repozitorijuma je da se u realnom vremenu prezentuje disanje i puls srca preko animacije.
 Za realizaciju su korišćeni sledeći resursi:
 - Python skripte
-1. Sender.py - šalje vrednosti Breath rate-a (Respiration) i Heart rate-a na LSL tok
-2. Receiver.py - prima te vrednosti
-3. Reader.py - čita iz .xdf fajla snimljene vrednosti koje je Sender poslao Receiver-u preko LSL-a
+  1. Sender.py - šalje vrednosti Breath rate-a (Respiration) i Heart rate-a na LSL tok
+  2. Receiver.py - prima te vrednosti
+  3. Reader.py - čita iz .xdf fajla snimljene vrednosti koje je Sender poslao Receiver-u preko LSL-a
 - Lab Recorder
   1. Služi za snimanje komunikacije tj. LSL toka između Sender-a i Receiver-a
   2. Dobijeni snimak se čuva u .xdf fajlu
